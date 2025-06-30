@@ -1,0 +1,19 @@
+# created by virtualenv automatically
+# Ignore virtual environments
+Lib/
+include/
+Scripts/
+pyvenv.cfg
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Ignore everything by default
+*
+
+# But allow these specific files/folders to be tracked
+!.gitignore
+!README.md
+!requirement.txt
+!vnexpress_uni/
