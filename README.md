@@ -2,12 +2,12 @@
 
 
 ## **Overview:**
+### Web Crawler - [diemthi.vnexpress.net](http://diemthi.vnexpress.net/)
 
-<font color="red">### Web Crawler - [diemthi.vnexpress.net](http://diemthi.vnexpress.net/)</font>
 
 A Python crawler using Scrapy/Selenium to collect university admission data from [https://diemthi.vnexpress.net](https://diemthi.vnexpress.net/).
 
-<font color="red">### Repo Structure </font>
+### Repo Structure 
 
 ```bash
 project/
@@ -30,7 +30,7 @@ scrapy crawl allinfo
 
 ```
 
-<font color="red"> ### Business Objective </font>
+ ### Business Objective
 
 This project aims to develop an automated web crawler that annually collects university admission data from **diemthi.vnexpress.net**. The extracted data will be structured into a centralized dataset to support internal teams in:
 
@@ -40,7 +40,7 @@ This project aims to develop an automated web crawler that annually collects uni
 
 By automating this process, the project minimizes manual effort, ensures greater accuracy, and enables consistent annual reporting
 
-<font color="red">### Technical Overview:</font>
+### Technical Overview:
 
 This project is built using **Python**, combining the strengths of **Scrapy** and **Selenium** to crawl and extract structured university admission data from diemthi.vnexpress.net.
 **Packages Used:**
