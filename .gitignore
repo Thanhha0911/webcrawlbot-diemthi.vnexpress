@@ -17,3 +17,4 @@ __pycache__/
 !README.md
 !requirement.txt
 !vnexpress_uni/
+!vnexpress_uni/*.py
