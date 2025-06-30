@@ -18,3 +18,4 @@ __pycache__/
 !requirement.txt
 !vnexpress_uni/
 !vnexpress_uni/*.py
+!image
